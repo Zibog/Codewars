@@ -3,7 +3,7 @@ package ru.codewars.solutions;
 import java.util.Arrays;
 
 public class Main {
-    
+
     // English alphabet size
     private static final int ALPHABET_SIZE = 26;
 
